@@ -1,0 +1,10 @@
+
+
+[Window: New Tab - Google Chrome - 07:38:10]
+selam[Key.ctrl_l][Key.backspace]hi[Key.space]it[Key.space]
+is[Key.space]chrome[Key.space]window[Key.ctrl_l][Key.backspace]
+
+
+[Window: cyber-tutorial - 07:38:30]
+and[Key.space]this[Key.space]is[Key.space]windows[Key.space]
+explorer
